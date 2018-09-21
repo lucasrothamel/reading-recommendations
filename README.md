@@ -14,14 +14,15 @@ in this file, and my own summary of programming standards in the `programming-st
 - Michael Foord
   - [30 Best Practises in Software Development on opensource.com](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) 
 - The Agile Manifesto
-  - [4 Values and 12 Principles] (https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto)
+  - [4 Values and 12 Principles](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto)
 
 ## Java
 - Joshua Bloch
   - Effective Java (3rd Edition) - Best practises for the Java Platform
   
 ## PHP
-- php the right way [https://phptherightway.com] - actually a basic reference
+- [php the right way](https://phptherightway.com) - foundation of professional php programming, 
+should be obvious things, but with reading once
 - [Laravel Documentation](https://laravel.com/docs) - actually yes, just read it once!
 
 # Smaller references
