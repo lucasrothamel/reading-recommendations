@@ -16,14 +16,13 @@ in this file, and my own summary of programming standards in the `programming-st
 - The Agile Manifesto
   - [4 Values and 12 Principles] (https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto)
 
-
 ## Java
 - Joshua Bloch
   - Effective Java (3rd Edition) - Best practises for the Java Platform
   
 ## PHP
 - php the right way [https://phptherightway.com] - actually a basic reference
-
+- [Laravel Documentation](https://laravel.com/docs) - actually yes, just read it once!
 
 # Smaller references
 - [Markdown Reference](https://commonmark.org/help/)
