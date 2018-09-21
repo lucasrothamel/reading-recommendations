@@ -1,6 +1,6 @@
 # reading-recommendations
 A list of books any professional software developer should read,
-and repeat from time to time. Divided in the more important books and articles 
+and repeat to read from time to time. Divided in the more important books and articles 
 in this file, and my own summary of programming standards in the `programming-standards.md`
 
 ## Must Reads (Platform Independent)
