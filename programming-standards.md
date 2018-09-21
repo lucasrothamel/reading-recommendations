@@ -15,6 +15,10 @@ My personal summary:
 - take care of your mind, learn how to meditate, 
   - do the [Happiness Program](https://www.artofliving.org/us-en/happiness-program) somewhere in your area to learn take care of your mind and energy
   - have **MUCH MORE ENERGY, CLARITY** and **FOCUS better** by regularly practising the Sudarshan Kriya
+- dont expect to productively program 8 hours per day. Know when you are productive, 
+and do your programming in these high productivity hours. Take care of small business.
+  - `Better dont work on Monday, than spending the rest of the week fixing monday`
+  
 
 # Technical Standards
 ## php
