@@ -13,6 +13,8 @@ in this file, and my own summary of programming standards in the `programming-st
   - The Clean Coder [PDF](http://ptgmedia.pearsoncmg.com/images/9780137081073/samplepages/0137081073.pdf)
 - Kent Beck
   - Test Driven Development by Example [PDF](https://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf)
+- Michael Feathers
+  -Working Effectively with Legacy Code [PDF]() 
 - Michael Foord
   - 30 Best Practises in Software Development on opensource.com [Link](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) 
 - The Agile Manifesto
