@@ -19,6 +19,12 @@ in this file, and my own summary of programming standards in the `programming-st
   - 30 Best Practises in Software Development on opensource.com [Link](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) 
 - The Agile Manifesto
   - 4 Values and 12 Principles [Link](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto)
+- Goto Conferences Videos:
+  - Catching up on topics: https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA
+
+# CI/CD
+- Ken Mugrage: It’s Not Continuous Delivery If You Can’t Deploy Right Now 
+  - https://www.youtube.com/watch?v=po712VIZZ7M
 
 ## Java
 - Joshua Bloch
