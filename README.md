@@ -22,9 +22,15 @@ in this file, and my own summary of programming standards in the `programming-st
 - Goto Conferences Videos:
   - Catching up on topics: https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA
 
-# CI/CD
+## CI/CD
 - Ken Mugrage: It’s Not Continuous Delivery If You Can’t Deploy Right Now 
   - https://www.youtube.com/watch?v=po712VIZZ7M
+
+## Recommended YouTube Channels
+- [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+  - these are high-class talks on best practises on all levels and topics of modern software development.
+- [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
+  - in-depth professional videos on different aspects of Laravel
 
 ## Java
 - Joshua Bloch
@@ -33,7 +39,7 @@ in this file, and my own summary of programming standards in the `programming-st
 ## PHP
 - [php the right way](https://phptherightway.com) - foundation of professional php programming, 
 should be obvious things, but with reading once
-- [Laravel Documentation](https://laravel.com/docs) - actually yes, just read it once.
+- [Laravel Documentation](https://laravel.com/docs) - very well structured, and always something new to be found. Code smarter, not harder.
 
 # Smaller references
 - [Markdown Reference](https://commonmark.org/help/)
